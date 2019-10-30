@@ -1,2 +1,3 @@
 just some text
 Branch B edit
+another
